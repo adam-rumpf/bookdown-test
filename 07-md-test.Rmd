@@ -11,10 +11,10 @@ This is a test to see whether LaTeX formulas still work. The equation below shou
 
 ## Python Code
 
-This is a test to see whether Python code can be included.
+This is a test to see whether Python code can be included. The following is for displaying code only.
 
-```python
-	import random
-	
-	print(random.random())
+```{python, python.reticulate = FALSE}
+import random
+
+print(random.random())
 ```
