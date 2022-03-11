@@ -1,6 +1,6 @@
 # Cross-references {#cross}
 
-Cross-references make it easier for your readers to find and link to elements in your book.
+Cross-references make it easier for your readers to find and link to elements in your book, like the [first page](#hello-bookdown).
 
 ## Chapters and sub-chapters
 

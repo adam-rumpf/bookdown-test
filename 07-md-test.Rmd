@@ -1,0 +1,20 @@
+# Markdown Test
+
+This is a test page added to the default test project.
+
+## Formulas
+
+This is a test to see whether LaTeX formulas still work. The equation below should be number \@ref(eq:testeq).
+\begin{align}
+	(\#eq:testeq) e^{\pi i} + 1 = 0
+\end{align}
+
+## Python Code
+
+This is a test to see whether Python code can be included.
+
+```python
+	import random
+	
+	print(random.random())
+```
